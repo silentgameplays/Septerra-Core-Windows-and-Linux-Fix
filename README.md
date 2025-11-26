@@ -18,4 +18,4 @@ Linux
 This fix was created by M-HT link to his repository here, only compiled and created this fix for ease of use.
 https://github.com/M-HT/SR/releases?q=septerra&expanded=true
 
-silentgmaeplays
+silentgameplays
